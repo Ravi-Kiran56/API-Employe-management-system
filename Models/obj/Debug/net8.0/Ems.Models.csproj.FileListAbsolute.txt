@@ -1,0 +1,11 @@
+C:\Users\Aryan\source\repos\Employe Management System\Models\bin\Debug\net8.0\Ems.Models.deps.json
+C:\Users\Aryan\source\repos\Employe Management System\Models\bin\Debug\net8.0\Ems.Models.dll
+C:\Users\Aryan\source\repos\Employe Management System\Models\bin\Debug\net8.0\Ems.Models.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.AssemblyInfoInputs.cache
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.AssemblyInfo.cs
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.dll
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\refint\Ems.Models.dll
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\Ems.Models.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Models\obj\Debug\net8.0\ref\Ems.Models.dll

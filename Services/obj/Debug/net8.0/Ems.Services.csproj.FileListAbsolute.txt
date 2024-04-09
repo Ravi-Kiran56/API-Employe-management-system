@@ -1,0 +1,17 @@
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.Services.deps.json
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.Services.dll
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.Services.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.data.dll
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.Models.dll
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.data.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Services\bin\Debug\net8.0\Ems.Models.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.csproj.AssemblyReference.cache
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.AssemblyInfoInputs.cache
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.AssemblyInfo.cs
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Serv.D7AA28BC.Up2Date
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.dll
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\refint\Ems.Services.dll
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\Ems.Services.pdb
+C:\Users\Aryan\source\repos\Employe Management System\Services\obj\Debug\net8.0\ref\Ems.Services.dll
